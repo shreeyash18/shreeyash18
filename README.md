@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤About Me:
 Hi, I’m Shreeyash Jadhav, an aspiring AI/ML Engineer passionate about building practical solutions using Machine Learning, Deep Learning, and Generative AI. I enjoy learning new technologies, working on real-world projects, and turning ideas into useful applications.
 
 
